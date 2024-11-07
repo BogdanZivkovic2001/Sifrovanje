@@ -1,0 +1,10 @@
+﻿  Source.c
+C:\Users\bogda\source\repos\Sifrovanje\Sifrovanje\Source.c(32,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\bogda\source\repos\Sifrovanje\Sifrovanje\Source.c(75,7): warning C4013: 'isalpha' undefined; assuming extern returning int
+C:\Users\bogda\source\repos\Sifrovanje\Sifrovanje\Source.c(76,11): warning C4013: 'tolower' undefined; assuming extern returning int
+C:\Users\bogda\source\repos\Sifrovanje\Sifrovanje\Source.c(78,12): warning C4013: 'isspace' undefined; assuming extern returning int
+C:\Users\bogda\source\repos\Sifrovanje\Sifrovanje\Source.c(104,17): warning C4013: 'koeficijent_formiranje_sifrovanje' undefined; assuming extern returning int
+C:\Users\bogda\source\repos\Sifrovanje\Sifrovanje\Source.c(350,3): warning C4013: 'system' undefined; assuming extern returning int
+C:\Users\bogda\source\repos\Sifrovanje\Sifrovanje\Source.c(200,1): warning C4715: 'koeficijent_formiranje_sifrovanje': not all control paths return a value
+C:\Users\bogda\source\repos\Sifrovanje\Sifrovanje\Source.c(225,1): warning C4715: 'koeficijnet_formiranje_desifrovanje': not all control paths return a value
+  Sifrovanje.vcxproj -> C:\Users\bogda\source\repos\Sifrovanje\x64\Debug\Sifrovanje.exe
